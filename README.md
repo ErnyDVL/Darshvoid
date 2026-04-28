@@ -46,7 +46,7 @@
 
 <br/>
 
-<!-- ─── TOOLS (dropdown) ─── -->
+<!-- ─── TOOLS ─── -->
 
 ### &nbsp;<b>⚙️ &nbsp; Tools &amp; Env
 
