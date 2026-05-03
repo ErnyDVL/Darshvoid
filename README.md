@@ -18,8 +18,8 @@
 
 
 - 🌱 &nbsp;**learning** &nbsp; Computer science - CCA College, Full Stack - The Odin Project
-- 📚 &nbsp;**current topics** &nbsp; Data Structure Algorithims, Advanced HTML/CSS
-- ⏭️ &nbsp;**up next** &nbsp; React, Node.js
+- 📚 &nbsp;**current topics** &nbsp; Advanced HTML/CSS, React.
+- ⏭️ &nbsp;**up next** &nbsp; Node.js
 
 
 <br clear="all"/>
